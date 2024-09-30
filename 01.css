@@ -1,0 +1,41 @@
+header{
+    background-color:aqua;
+    height:100vh;
+    color: aliceblue;
+    text-align:center;
+    
+}
+body{
+    margin:0;
+}
+    
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+.button{
+    height:40px;
+    width:140x;
+    border:none;
+    border-radius:20px;
+    padding:10px;
+    
+
+}
+.div{
+    display:block;
+    position:relative;
+    top:100px;
+
+}
+
+
+
+
+
+header h1{
+
+    display: block;
+    position:relative;
+    top:100px;
+}
